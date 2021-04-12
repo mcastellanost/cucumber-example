@@ -1,0 +1,1 @@
+{"name":"sbt","version":"1.4.3","bspVersion":"2.0.0-M5","languages":["scala"],"argv":["/Users/mariocastellanos/.sdkman/candidates/java/8.282.08.1-amzn/jre/bin/java","-Xms100m","-Xmx100m","-classpath","/Users/mariocastellanos/Library/Application Support/JetBrains/IdeaIC2020.3/plugins/Scala/launcher/sbt-launch.jar","xsbt.boot.Boot","-bsp"]}
